@@ -1,3 +1,5 @@
+###### tags: `government` `commons` `energy` `infrastructure` `non-human` `biotic community` `project`
+
 # Gouvernement de l'énergie par une communauté biotique favorisant la structuration d'un commun infrastructurel à des fins de résilience
 
 ## 0 - A propos
@@ -6,13 +8,10 @@ Ce document accompagne la co-construction d'un projet de thèse porté par [Rieu
 
 ### Intention
 
-:::success
 **++Intention initiale++**
 Co-construire un projet de recherche à la croisée de plusieurs disciplines pour adresser le sujet des infrastructures - notamment énergétique - au prisme des communs et des non-humains.
-:::
 
-:::info
-**++Liens utilues++**
+**++Liens utiles++**
 * [Appel à thèse ADEME](https://appelsaprojets.ademe.fr/aap/AAC%20Th%C3%A8ses2020-22)
 * Co-portage :
     * [Origens Medialab](https://origensmedialab.org/)
@@ -21,22 +20,14 @@ Co-construire un projet de recherche à la croisée de plusieurs disciplines pou
     * (proposé par @Alexandre) : [Laboratoire Interdisciplinaire des Energies de Demain](http://www.lied-pieri.univ-paris-diderot.fr/)
         * Potentiel directeur de thèse (proposé par Alexandre M.) : [José Halloy](http://www.lied-pieri.univ-paris-diderot.fr/?emd_person=brouillon-auto-27)
     * (identifié par @Rieul) : [ Laboratoire Infrastructure, Architecture, Territoire](https://paris-malaquais.archi.fr/la-recherche/p/laboratoire-liat/)
-:::
 
-:::warning
-**++Découpage du document++**
-* [Première section](https://pad.lamyne.org/rieultecher_phd-proposal?view#Projet-de-recherche) est le résultat de travail préparatoire à date pour la consolidation d'un projet de recherche.
-* [Seconde section](https://pad.lamyne.org/rieultecher_phd-proposal?view#Pr%C3%A9paration-du-projet-de-th%C3%A8se) est le travail de préparation et de détail autour de la constitution d'un projet de recherche.
-:::
 
 ## 1 - Projet de recherche
 
 **++TITRE++** - Dépasser le paradigme des communs ostromiens pour penser des communs énergétiques réencastrés dans une écologie plurielle à des fins de résilience et d'adaptation des infrastructures critiques. 
 ++SOUS-TITRE++ : Vers une approche située pragmatique, archéologique et anthropologique des infrastructures énergétiques : Emergence d'un gouvernement de l'énergie par une communauté biotique favorisant la structuration d'un commun infrastructurel à des fins de résilience.
 
-:::danger
 **Champs plus large d'intégration de ce projet** : Evolution du système terre et infrastructures critiques : cadre d'une pensée complexe de l'énergie à des fins de résilience et d'adaptation de nos infrastructures énergétiques en contexte de rupture. 
-:::
 
 ### 1.1 - Contexte et enjeux
 
@@ -110,8 +101,6 @@ Enfin, dans un sixième et dernier temps, il s'agit d'ouvrir sur les implication
 
 
 ### 1.6 - Apports scientifiques et caractère de "nouveauté"
-
-
 
 
 [reference]: reference-list.md

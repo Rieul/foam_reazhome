@@ -1,3 +1,5 @@
+###### tags: `government` `governance` `data` `energy` `platform` `citizen` `Citizen Governed Data Platform` `project` `commons`
+
 # Citizen Governed Data Platform for Energy
 
 In a context of climate change fight and growing resources scarcity, renewable energy sources are known to play a more and more central role in energy production. Nevertheless, the penetration of high share of renewable energy sources in electricity production raises intricate issues concerning the power system management : the variability of their output, their relatively low predictability and their low inertia make them unsuitable for a proper control in order to guarantee the supply - demand equilibrium. Two very opposite strategies can be depicted to help their integration :
