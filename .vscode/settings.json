@@ -1,8 +1,8 @@
 {
-  "editor.minimap.enabled": false,
+  "editor.minimap.enabled": true,
   "editor.fontLigatures": true,
   "editor.wrappingIndent": "indent",
-  "editor.overviewRulerBorder": false,
+  "editor.overviewRulerBorder": true,
   "editor.lineHeight": 24,
   "workbench.colorTheme": "Gray Matter Light",
   "[markdown]": {
