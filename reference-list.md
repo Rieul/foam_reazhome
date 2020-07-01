@@ -1,3 +1,7 @@
+# Reference list
+
+## [Projet Energy Citizen Governed Data Platform]: project_energy-cgdp.md
+
 * Abikarram, Jose Batista, and Katie McConky. 2017. “Real Time Machine Coordination for Instantaneous Load Smoothing and Photovoltaic Intermittency Mitigation.” ​ Journal of Cleaner Production ​ 142 \(January\):1406–16
 * Amato A., et al., 2015 "Design and evaluation of P2P overlays for energy negotiation in smart micro-grid", Comput. Stand. Interfaces \(2015\)
 * Baldwin, Elizabeth, Valerie Rountree, and Janet Jock. 2018. “Distributed Resources and Distributed Governance: Stakeholder Participation in Demand Side Management Governance.” ​ Energy Research & Social Science ​ 39 \(May\):37–45
@@ -14,3 +18,10 @@
 * Rodriguez, Rolando A., Sarah Becker, and Martin Greiner. 2015. “Cost-Optimal Design of a Simplified, Highly Renewable Pan-European Electricity System.” ​ Energy 83 \(April\):658–68.
 * Sadoway David & Shekhar Satyarupa , 2014, "\(Re\)Prioritizing Citizens in Smart Cities Governance:Examples of Smart Citizenship from Urban India" Journal of community informatics
 * Wang, Zongjie, and Zhizhong Guo. 2018. “On Critical Timescale of Real-Time Power Balancing in Power Systems with Intermittent Power Sources.” ​Electric Power Systems Research ​ 155 \(February\):246–53
+
+## [Gouvernement de l'énergie par une communauté biotique favorisant la structuration d'un commun infrastructurel à des fins de résilience]: project_energy-infrastructure-commons.md
+
+Formes de communs énergétiques au sens d'Ostrom :
+* communautés énergétiques ("*++[Libérer le potentiel des communautés d'énergie renouvelable](https://energie-partagee.org/wp-content/uploads/2019/04/community_energy_french.pdf)++*"", Energie Partagée, 2019)
+* coopératives énergétiques citoyennes ("*++[L’essor des coopératives énergétiques citoyennes](https://www.cairn.info/revue-multitudes-2019-4-page-88.htm)++*", Antoine Fontaine, 2019) - dont centrales villageoises
+* échanges pair-à-pair d'électricité en communauté et micro-réseaux ("*++[Designing microgrid energy markets - A case study: The Brooklyn Microgrid](https://www.sciencedirect.com/science/article/pii/S030626191730805X)++*", Engelkamp E et al. D, 2017)
