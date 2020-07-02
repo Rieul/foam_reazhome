@@ -95,3 +95,4 @@ In the case of our contributive residencies for instance, methodology process ca
 ## Some bibliographical references
 
 [reference]: reference-list.md
+[Decent or not decent]: article_energy-decent-or-not.md

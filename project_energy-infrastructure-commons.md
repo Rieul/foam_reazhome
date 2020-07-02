@@ -104,3 +104,4 @@ Enfin, dans un sixième et dernier temps, il s'agit d'ouvrir sur les implication
 
 
 [reference]: reference-list.md
+[Saucisse, Énergies Renouvelables & Transition Énergétique]: article_energy-saucisse-transition.md
