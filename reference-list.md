@@ -25,3 +25,4 @@ Formes de communs énergétiques au sens d'Ostrom :
 * communautés énergétiques ("*++[Libérer le potentiel des communautés d'énergie renouvelable](https://energie-partagee.org/wp-content/uploads/2019/04/community_energy_french.pdf)++*"", Energie Partagée, 2019)
 * coopératives énergétiques citoyennes ("*++[L’essor des coopératives énergétiques citoyennes](https://www.cairn.info/revue-multitudes-2019-4-page-88.htm)++*", Antoine Fontaine, 2019) - dont centrales villageoises
 * échanges pair-à-pair d'électricité en communauté et micro-réseaux ("*++[Designing microgrid energy markets - A case study: The Brooklyn Microgrid](https://www.sciencedirect.com/science/article/pii/S030626191730805X)++*", Engelkamp E et al. D, 2017)
+* **"_[The question conerning technology in China - An essay in Cosmotechnics](https://mitpress.mit.edu/books/question-concerning-technology-china)_, Yuk Hui, 2016, ISBN: 9780995455009**
