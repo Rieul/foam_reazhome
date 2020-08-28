@@ -99,12 +99,7 @@ Enfin, dans un sixième et dernier temps, il s'agit d'ouvrir sur les implication
 
 ## 1.7 - Etat de l'art
 
-Formes de communs énergétiques au sens d'Ostrom :
-* Communautés énergétiques (**"_Libérer le potentiel des communautés d'énergie renouvelable](https://energie-partagee.org/wp-content/uploads/2019/04/community_energy_french.pdf)_"", Energie Partagée, 2019**)
-* Coopératives énergétiques citoyennes (**"_[L’essor des coopératives énergétiques citoyennes](https://www.cairn.info/revue-multitudes-2019-4-page-88.htm)_"**, Antoine Fontaine, 2019) - dont centrales villageoises
-* Echanges pair-à-pair d'électricité en communauté et micro-réseaux (**"_[Designing microgrid energy markets - A case study: The Brooklyn Microgrid](https://www.sciencedirect.com/science/article/pii/S030626191730805X)_", Engelkamp E et al. D, 2017**)
-
-
 
 [reference]: reference-list.md
 [Saucisse, Énergies Renouvelables & Transition Énergétique]: article_energy-saucisse-transition.md
+[Energy citizen governed governed data platform]: research-projet_energy-cgdp.md.md
