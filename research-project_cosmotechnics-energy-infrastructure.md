@@ -1,6 +1,6 @@
 ###### tags: `government` `commons` `energy` `infrastructure` `non-human` `biotic community` `project`
 
-Cosmotechnique des infrastructures énergétiques
+Cosmotechniques des infrastructures énergétiques
 ===
 
 > Vers une construction des infrastructures énergétiques par les communs de communautés biotiques à des fins de résilience systémique.
