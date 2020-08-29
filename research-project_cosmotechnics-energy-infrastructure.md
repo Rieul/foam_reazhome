@@ -13,7 +13,7 @@ Ce document accompagne la co-construction d'un projet de recherche porté par [R
 
 **_Intention initiale_**
 
-Co-construire un projet de recherche à la croisée de plusieurs disciplines pour adresser le sujet des infrastructures - notamment énergétique - au prisme des communs et des non-humains.
+Co-construire un projet de recherche à la croisée de plusieurs disciplines pour adresser le sujet des infrastructures - notamment énergétiques - au prisme des communs et des non-humains.
 
 # 1 - Projet de recherche
 
