@@ -163,14 +163,16 @@ Le cadre actuel de dialogue, de pensée et de développement de la transition é
 
 _Si l’usage de notions tels que “la_ _**pensée complexe**”, “le_ _**pragmatisme**”, “l’**empirisme radical**”, “le_ _**pluralisme**”, “les_ _**communs**” , “**anti-discipline**”… dans le cadre du développement de ma pensée peut paraître encore flou ou imprécis c’est parce que je les découvre soit tardivement soit en regard théorique et conceptuel des applications pratiques vécues au travers de diverses expériences. Si j’y fait référence, c’est moins pour la beauté conceptuelle des intrications d‘une pensée en système complexe, mais bien parce que je n’ai que très peu trouvé d’hybridation ou de liens de ces notions à la pensée contemporaine de l’énergie pour exprimer ce qui fait, pour moi, socle de réflexion de l’évolution — la transition ? —du système énergétique._
 
+---
+
 <center>
 
 Cette production est régie par les termes de la [Licence Peer Production](https://wiki.p2pfoundation.net/Peer_Production_License)
 This production is under the [Peer Production License](https://wiki.p2pfoundation.net/Peer_Production_License) terms
 ![](https://github.com/Rieul/research/blob/5a628e62b013d020b246465fcea7ed87c3a1e275/assets/css/PPL.png)
 
-La licence Peer Production est une licence de la famille des licences [Copyfair](https://wiki.p2pfoundation.net/CopyFair_License), selon laquelle seuls les commoners, coopératives et autres organisations à but non lucratif peuvent partager et réutiliser ce matériaux, les entités commerciales qui ont vocation, par utilisation de ce matériaux, à faire profit sur la base de ce commun se doivent de discuter et d'acter explicitement les réciprocités avec les auteur·e·s de ce matériaux.
----
-The peer production license is an example of the [Copyfair](https://wiki.p2pfoundation.net/CopyFair_License) type of license, in which only other commoners, cooperatives and nonprofits can share and re-use the material, but not commercial entities intent on making profit through the commons without explicit reciprocity
+* La licence Peer Production est une licence de la famille des licences [Copyfair](https://wiki.p2pfoundation.net/CopyFair_License), selon laquelle seuls les commoners, coopératives et autres organisations à but non lucratif peuvent partager et réutiliser ce matériaux, les entités commerciales qui ont vocation, par utilisation de ce matériaux, à faire profit sur la base de ce commun se doivent de discuter et d'acter explicitement les réciprocités avec les auteur·e·s de ce matériaux.
+
+* The peer production license is an example of the [Copyfair](https://wiki.p2pfoundation.net/CopyFair_License) type of license, in which only other commoners, cooperatives and nonprofits can share and re-use the material, but not commercial entities intent on making profit through the commons without explicit reciprocity
 
 </center>

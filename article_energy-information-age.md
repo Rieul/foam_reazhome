@@ -96,14 +96,16 @@ If we consider going into details with the other core activities of the Musk ind
 
 It appears that the convergence of increased potential for decentralized energy production, use of highly distributed IoT or digital devices infrastructure providing information and the constant increase in computing power brings uncertainty rather than a determined vision of the world while trying to guess the future of energy. One of the best way to address a VUCA - or TUNA - world is to experiment and test typologies of organization in various context.  
 
+---
+
 <center>
 
 Cette production est régie par les termes de la [Licence Peer Production](https://wiki.p2pfoundation.net/Peer_Production_License)
 This production is under the [Peer Production License](https://wiki.p2pfoundation.net/Peer_Production_License) terms
 ![](https://github.com/Rieul/research/blob/5a628e62b013d020b246465fcea7ed87c3a1e275/assets/css/PPL.png)
 
-La licence Peer Production est une licence de la famille des licences [Copyfair](https://wiki.p2pfoundation.net/CopyFair_License), selon laquelle seuls les commoners, coopératives et autres organisations à but non lucratif peuvent partager et réutiliser ce matériaux, les entités commerciales qui ont vocation, par utilisation de ce matériaux, à faire profit sur la base de ce commun se doivent de discuter et d'acter explicitement les réciprocités avec les auteur·e·s de ce matériaux.
----
-The peer production license is an example of the [Copyfair](https://wiki.p2pfoundation.net/CopyFair_License) type of license, in which only other commoners, cooperatives and nonprofits can share and re-use the material, but not commercial entities intent on making profit through the commons without explicit reciprocity
+* La licence Peer Production est une licence de la famille des licences [Copyfair](https://wiki.p2pfoundation.net/CopyFair_License), selon laquelle seuls les commoners, coopératives et autres organisations à but non lucratif peuvent partager et réutiliser ce matériaux, les entités commerciales qui ont vocation, par utilisation de ce matériaux, à faire profit sur la base de ce commun se doivent de discuter et d'acter explicitement les réciprocités avec les auteur·e·s de ce matériaux.
+
+* The peer production license is an example of the [Copyfair](https://wiki.p2pfoundation.net/CopyFair_License) type of license, in which only other commoners, cooperatives and nonprofits can share and re-use the material, but not commercial entities intent on making profit through the commons without explicit reciprocity
 
 </center>
