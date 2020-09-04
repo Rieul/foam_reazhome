@@ -18,7 +18,7 @@ This space is my personal information space about my research investigation on c
 * [[Reference list]]
 * [[wiki-links]]
 
-# Foam information infrastructure
+# _"Foam" information infrastructure_
 
 👋 Welcome to your new Foam Workspace!
 
