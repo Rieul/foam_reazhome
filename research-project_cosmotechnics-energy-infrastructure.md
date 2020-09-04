@@ -47,24 +47,24 @@ De plus, centrer la réflexion des communs sur un objet - ressource - par nature
 D'un autre côté, aussi bien l'empirisme pragmatique de J. Dewey (**"_[Savoir en faisant (et réciproquement). Le pragmatisme incandescent de John Dewey](https://zilsel.hypotheses.org/1666)_, Jérôme Lamy, Revue Zilsel, 2015**) que les communs de E. Ostrom (**"_[Governing the Commons: The Evolution of Institutions for Collective Action](https://digitalrepository.unm.edu/nrj/vol32/iss2/6)_", Elinor Ostrom 32 Nat. Resources J.415 (1992)**), contre toute acceptation de la pluralité des cosmologies constitutives du monde, et notamment décrites par Descola dans les relations au non-humains (**"_[La composition des collectifs : formes d'hybridation](https://www.college-de-france.fr/site/philippe-descola/course-2018-02-21-14h00.htm)_", Philippe Descola, Cours du COllège de France, 2018**), ne prennent peu - voire pas - en compte - voire réfutent - l'incorporation et le rôle central des non-humains dans la pensée et la construction de notre relation au monde.
 De plus, à ces représentation du monde par les cosmogonies, Yuk Hui apporte une entrée complémentaire, dite "cosmotechnique" (**"_[On Cosmotechnics: For a Renewed Relation between Technology and Nature in the Anthropocene](https://s3.amazonaws.com/arena-attachments/1743546/27f376b9a0f5466f7ec919e3c074926e.pdf?1518385163)_, Yuk Hui, in '_Techné: Research in Philosophy and Technology_' vol. 21, 2017**), proposant une lecture de la construction du - des - monde·s au prisme de leur représentation par la technique. Les infrastructures étant des éléments de la technique humaine, les apports de la pensée de Yuk Hui viennent compléter et spécifier une approche des infrastructures par les cosmologies au sens kantien d' "ensemble des problèmes métaphysiques concernant le monde et son origine". Dans ce sens, la perspective d'une archéologie foulcadienne des infrastructures énergétiques se donne pour enjeu de révéler leurs cosmotechniques afin de dépasser le prisme de lecture actuel de construction des infrastructures énergétiques et ouvrir sur les possibilités d'une conception par les communs de communautés biotiques de ces infrastructures. Ce travail archéologique se veut foulcadien dans le sens où cette "archéologie ne vise pas à fouiller le passé mais à ouvrir l'avenir [en faisant] voir combien est invisible l'invisibilité du visible (**"_[La pensée du dehors](https://monoskop.org/images/1/16/Foucault_Michel_1966_1994_La_pensee_du_dehors.pdf)_", Michel Foucault, in '_Dits et écrits_', 1966)"**" - pour la citation complète voir **"_[Fiction politique - Ep.2 : 'La vérité : avant, après'](https://www.college-de-france.fr/site/patrick-boucheron/course-2017-01-17-11h00.htm)_", Patrick Boucheron, Cours du collège de France**).
 
-### _Hypothèses centrales_
+### _Hypothèses centrales_ [A mettre à jour]
 Ainsi, je prends ici comme hypothèse qu'une re-terrestrialisation (au sens de B. Latour), un accrage relationel des économies (tel que le montrent les intrications économiques du champignon de A. Tsing) et des cosmologies (comme énnoncé par P. Descola) multiples, une lecture et une construction au prisme de cosmotechniques plurielles (selon le concept de Y. Hui) et le développement d'une philosophie (telle que A. Monnin la travaille pour web) des infrastrutures, sont essentiels pour penser et constituer une résilience infrastructurelle par les communs.
 Par ailleurs, l'hypothèse corollaire est que les communs sont un cadre de penser opérant pour la refondation des infrastructures énergétiques face au cadre historique de pensée, de conception et de développement de nos infrastrutures énergétiques contemporaines. 
 
-### _Objet et approches d'étude_
+### _Objet et approches d'étude_ [A mettre à jour]
 L'archétype de l'infrastruture des infrastructures ou, pour reprendre le néologisme de Yves Citton, ce qu'on pourrait voir comme l'_intrastructure_ (**"_[Notre inconscient numérique. Comment les infrastructures du web transforment notre esprit](https://hal.archives-ouvertes.fr/hal-01373129/document)_", Yves Citton, 2016**; **"_[La construction de la réalité en médiarchie](https://www.cairn.info/revue-journal-des-anthropologues-2019-1-page-261.htm)_", Interview Yves Citton, 2019**), sous-tendant nos sociétés s'incarne dans deux composantes, faces d'une même pièce : l'énergie et l'information. Dans le cadre de ce projet de thèse, il est proposé d'étudier l'apport de la pensée des communs - par leur dépassement ostromien - à la conception d'infrastructures énergétiques - notamment électriques - résilientes, prises comme communs énergétiques et situées dans leur contexte socio-technique qu'est la prééminnence de l'information et de l'expérience. Il s'agit de travailler à un cadre conceptuel et pratique de re-terrestrialisation des infrastructures énergétques au travers d'une triple approche située pragmatique, archéologique et anthropologique des infrastructures énergétiques. L'entrée expérimentale de la démarche est celle d'un gouvernement local de l'énergie : sur des terrains d'expérimentation identifiés, faire émerger une gouvernementalité de l'énergie par une communauté biotique (**"_[Communs & Non-Humains (1ère partie) : Oublier les « ressources » pour ancrer les Communs dans une « communauté biotique »](https://scinfolex.com/2019/01/10/communs-non-humains-1ere-partie-oublier-les-ressources-pour-ancrer-les-communs-dans-une-communaute-biotique/)_", Lionel Maurel, 2019**) favorisant la structuration d'un commun énergétique à des fins de résilience infrastructurelle.
 
-## 1.2 - Question de recherche
+## 1.2 - Question de recherche [A mettre à jour]
 
 Qu'est ce que le dépassement de la pensée des communs d'Ostrom au prisme des communautés biotiques plutôt que de la ressource peut apporter aux reconfigurations actuelles des infrastructures énergétiques dans une perspective de résilience et de soutenabilité de nos infrastructures ?
 
-## 1.3 - Objectif scientifique
+## 1.3 - Objectif scientifique [A mettre à jour]
 
 L'objectif scientifique de ce projet de recherche est de faire avancer les connaissances sur les structures d'organisation des infrastructures à des fins de résilience aux ruptures et aux chocs et de soutenabilités, par l'étude des infrastructures énergétiques au prisme de l'anthropologie de la nature et des communs. 
 
 L'objectif global est de participer à définir les cadres d'émergence et de structuration nécessaires à la conception, l'expérimentation et le développement de systèmes résilients et soutenables. 
 
-## 1.4 - Méthodologie
+## 1.4 - Méthodologie [A mettre à jour]
 
 Dans un premier temps, il s'agit de cartographier par une démarche d'enquête pragmatique et située des infrastrutures énergétiques en ce à quoi elles tiennent et ce qui les tient, notamment en caractérisant leur interdépendance à d'autres infrastructures et au "terrestre".
 > * Méthodologie : processus d'enquête, empruntant notamment à celle mis en place dans le cadre du travail du collectif secheresses.fr, tout en s'inscrivant dans une visée de modélisation en systèmes des infrastructures énergétiques. 
@@ -91,13 +91,13 @@ Enfin, dans un sixième et dernier temps, il s'agit d'ouvrir sur les implication
 > * Hypothèses :
 
 
-## 1.5 - Attendus
+## 1.5 - Attendus [A compléter]
 
 
-## 1.6 - Apports scientifiques et caractère de "nouveauté"
+## 1.6 - Apports scientifiques et caractère de "nouveauté" [A compléter]
 
 
-## 1.7 - Etat de l'art
+## 1.7 - Etat de l'art [A compléter]
 
 
 [reference]: reference-list.md
