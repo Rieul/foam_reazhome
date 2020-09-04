@@ -125,6 +125,18 @@ As a result, while dealing with VUCA \(or TUNA\) context in such a complex syste
 
 _**For more details**: I strongly advise you to consider reading to read_ [_Vitalik Buterin Medium’s post about the “Meaning of decentralization”_](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) _\(_[_https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274_](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)_\)._
 
+<center>
+
+Cette production est régie par les termes de la [Licence Peer Production](https://wiki.p2pfoundation.net/Peer_Production_License)
+This production is under the [Peer Production License](https://wiki.p2pfoundation.net/Peer_Production_License) terms
+![](https://github.com/Rieul/research/blob/5a628e62b013d020b246465fcea7ed87c3a1e275/assets/css/PPL.png)
+
+La licence Peer Production est une licence de la famille des licences [Copyfair](https://wiki.p2pfoundation.net/CopyFair_License), selon laquelle seuls les commoners, coopératives et autres organisations à but non lucratif peuvent partager et réutiliser ce matériaux, les entités commerciales qui ont vocation, par utilisation de ce matériaux, à faire profit sur la base de ce commun se doivent de discuter et d'acter explicitement les réciprocités avec les auteur·e·s de ce matériaux.
+---
+The peer production license is an example of the [Copyfair](https://wiki.p2pfoundation.net/CopyFair_License) type of license, in which only other commoners, cooperatives and nonprofits can share and re-use the material, but not commercial entities intent on making profit through the commons without explicit reciprocity
+
+</center>
+
 [Energy in the information age]: article_energy-information-age.md
 [Saucisse, Énergies Renouvelables & Transition Énergétique]: article_energy-saucisse-transition.md
 [Citize Governed Data Platform]: project_energy-cgdp.md
