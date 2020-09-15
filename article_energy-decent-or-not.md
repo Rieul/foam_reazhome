@@ -132,7 +132,7 @@ Cette production est régie par les termes de la [Licence Peer Production](https
 
 * The peer production license is an example of the [Copyfair](https://wiki.p2pfoundation.net/CopyFair_License) type of license, in which only other commoners, cooperatives and nonprofits can share and re-use the material, but not commercial entities intent on making profit through the commons without explicit reciprocity
 
-![Peer Production Licence Logo](assets/css/PPL.png)
+![Peer Production Licence Logo](assets/img/licences/PPL.png)
 
 
 [Energy in the information age]: article_energy-information-age.md
