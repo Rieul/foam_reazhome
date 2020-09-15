@@ -21,7 +21,7 @@ Co-construire un projet de recherche à la croisée de plusieurs disciplines pou
 
 _SOUS-TITRE_ - Vers une construction des infrastructures par les communs de communautés biotiques à des fins de résilience territoriale : Dépasser le paradigme des communs ostromiens pour penser des communs énergétiques réencastrés dans une écologie plurielle.
 
-_Intention_ - Pour une approche située pragmatique, archéologique et anthropologique des infrastructures énergétiques : Emergence d'un gouvernement de l'énergie par une communauté biotique favorisant la structuration d'un commun infrastructurel à des fins de résilience.
+_Attention_ - Pour une approche située pragmatique, archéologique et anthropologique des infrastructures énergétiques : Emergence d'un gouvernement de l'énergie par une communauté biotique favorisant la structuration d'un commun infrastructurel à des fins de résilience.
 
 ## 1.1 - Contexte et enjeux
 
