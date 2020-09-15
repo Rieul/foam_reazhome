@@ -6,7 +6,7 @@ _Dans ce billet je propose de prendre une analogie pour expliquer l’incongruit
 
 _Il a aussi pour but d’introduire ce que j’appelle “une pensée complexe de l’énergie”, une pragmatique de l’énergie et une construction par les communs de l’énergie visant à dépasser le cadre actuel réducteur de pensée de la transition énergétique._
 
-![](https://cdn-images-1.medium.com/max/800/1*7kpNj_f1G9lDd3Z8hEj36w.jpeg)
+![](assets/img/sauc-enr-transition-0.jpeg)
 
 > “The good news is that 2018 will finally mark a shift in our use of global energy. Next year will see onshore wind and solar power become the lowest-cost form of energy generation across the world” — Alexei Leven post on The Wired 2018 about Onshore wind and solar will become the cheaest form of energy
 
