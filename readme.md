@@ -6,7 +6,7 @@ Research on critical infrastructures from a transdisciplinary, if not antidiscip
 This space is my personal information space about my research investigation on critical infrastructures from a transdisciplinary, if not antidisciplinary, perspective. It aims at revealing the complexity, from a cosmological point of view, of the topic of what can be called the "critical infrastructures", meaning the infrastructures that sustain how the society work. More specifically, I'm investigating the cosmotechnics of energy infrastrutures, particularly in relation with the development of the commons from a biotic community perspective. 
 
 # Research projects
-* [Cosmotechnics of energy infrastructures in times of resurgence of the commons, and more particularly from a biotic commnity perspective](https://github.com/Rieul/research/blob/39a6a5ca3e2d49f60ca7f7bdb79e1ddfb0d9855d/research-project_cosmotechnics-energy-infrastructure.md)
+* [Cosmotechnics of energy infrastructures in times of resurgence of the commons, and more particularly from a biotic commnity perspective](https://github.com/Rieul/research/blob/14b005f313b268de78442081e68c7c7952e02b42/research-project_cosmotechnics-energy-infrastructure.md)
 * [Citizen Governed Data Platform within the context of energy distribution and production infrastructures](https://github.com/Rieul/research/blob/5c8b5e197f85f6357433ee577a14f06c6f04b76f/research-project_energy-cgdp.md)
 
 # Articles
