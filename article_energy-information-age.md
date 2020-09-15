@@ -2,7 +2,7 @@
 
 # Energy in the information age: decentralized infrastructures and complexity.
 
-![](https://lh6.googleusercontent.com/8q2Btt17-mCyYUaRjzMBC43tqGmZnfMTDffpiORY5mCIFU1w9tI4yh_GW-0-QMwb9bFXILQXDz4kYWZ6G6NE6FcUwXSDY7ZhE8jbGWjMuALzlMv88HqFDhy3XLYRo9ZZrbrGHLRm)
+![](assets/img/enr-info-age-0.jpeg)
 
 ## **Energy : one of nature and civilization’s fundamentals**
 
@@ -33,15 +33,15 @@ At current state, in the industrial world, and increasingly in the rest of the w
 
 Such a dependance to energy has been built over the [industrial revolutions](https://en.wikipedia.org/wiki/Industrial_Revolution) and in line with both local and global socio-economic-political choices. As of electricity is concerned, Figure 1 shows that there is a strong correlation between the electricity consumption \(on the right\) and the GDP evolution \(on the left\) from 1985 to 2015. In short, the more thriving the GDP based industrial economy is, the more intensive the energy use.
 
-![](https://lh5.googleusercontent.com/RKPDJ6xfWtf79XuhvA3xA0wQyHDY-_D6vCu1Vn9VyVF-2R7G99RqJvZm7WGcrtqUIgPI4qXTVKcaH8PQRoi-vABC2ZdQlZqmpE37rVhdzIZe_dJpqwQ0j3it3XsksecTpkeXbNcn)
+![](assets/img/enr-info-age-1.png)
 
-**`Figure 1: link between electricity use and GDP evolution from 1985 to 2015 (U.S. Energy Information Administration)`**
+**`Link between electricity use and GDP evolution from 1985 to 2015 (U.S. Energy Information Administration)`**
 
 Over the past century, the world has became more and more complex and intertwined, [VUCA \(Volatile-Uncertain-Complex-Ambiguous\)](https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity) the US Army would have said, or [TUNA \(Turbulent-Uncertain-Novel-Ambiguous\)](https://www.forbes.com/sites/adamgordon/2016/04/06/oxford/) Oxford research are saying. If energy is at the center of the driving forces of both our society and daily lives, it is also strongly interdepedant from all the other sectors, building up what can called a “complex system”. To operate in such a complexity, information is key. and it’s the energy counterpart of life and the functioning of our civilization and daily life.
 
 ## **Information : the energy counterpart of life**
 
-![Structure Of DNA](https://lh5.googleusercontent.com/PuLmyQqL3FFnUK1QGibE5XMlcivPnJXNKh2pskXcT4EEScOcKbVdIzrm-rM-VyIPK__7SGQgB9NApql6xTQKMwn4Rhqle9pwiExqaV0I--VIvekxRGGfpfR2GAPwjF-ZK-wZ52tb)
+![Structure Of DNA](assets/img/enr-info-age-2.jpeg)
 
 Like energy, information is usually viewed through economic and strategic prisms or as a basis for learning \(acquiring knowledge and know-how\) and acting in the world. More fundamentally, information is the basis of life structure, organization of the world and development of civilizations.
 
@@ -55,7 +55,7 @@ A less stunning example but much more structuring has been the development of GP
 
 The same trend can be witnessed in the building sector, not only from the perspective of monitoring and the use of IoT to operate the building – which is not new and related to the domotic trend - but also, at a more refined and dispersed level, from the point of view of managing everyday inhabitants life in the building with more and more capable assisting technologies such as Google Home, Alexas, connected fridges, home smart thermostat…
 
-![](https://lh6.googleusercontent.com/-VCW3_lthYHUDIx2zIja_Cf11qUejMqi0UsEJVoohKXCfB6ZUOwbz_UNj-imYNzAqdGZzfrQXsj6Exyq628yz7E5mCbrvcLVyYaEXsVBgFyP3tI481EafMD1qqHh9Buz855qYvjh)
+![](assets/img/enr-info-age-3.png)
 
 **`Google devices suite for connected home (from Google website)`**
 
@@ -67,13 +67,13 @@ As stated for energy, at current state, in the industrial world and increasingly
 
 If yesterday’s energy production, transmission, distribution and provision were mainly centralized \(relying on a centralized management of information\), democratization of digital tools, relocalization of production and automation and autonomy provided by increasing computational power help switching towards new organization in the energy chain. However, numerous futures can be drawn through such an observation.
 
-![](https://lh6.googleusercontent.com/vietPKNKiXcH3Pz7XjfJZOgAlfSN2fGjL9qG6PN8Jy2gPu6TY1MH7APR9kCmv7RkcIaA-p98WTTNA2lrRFSVxvUVL6HvPeU_-UMIxfOSU1m6oemww47tPqQAcOre5W7-6Cxs4FOf)
+![](assets/img/enr-info-age-4.jpeg)
 
 On one hand, if use of digital tools is becoming mainstream, governance of the digital information \(data\) is usually centralized and locked. Yet, for the distribution to smoothly work both ways while connecting distributed transmission networks that drive electricity from abundant and various sources to consumers’ homes while « ignoring boundaries », access to information necessitate full interoperation if not openness. On the other hand, fully distributed energy ecosystem can be drawn from observation of current emergences for the future of infrastructure.
 
 Let’s take the Musk's industries vision for instance - with respect to the industries Elon Musk has been involved in - as an example of where energy and information meet and to what end.
 
-![](https://lh5.googleusercontent.com/mE4wk7Gu2Z_YamrcGdGh7fslcOHgSpOVMk9SOSqelbphnm1HMQLK-XUz-1V4vgro59WPFjdUlVM7qbr0q1A753GZZYXw4wqBwCtaVoKqOOHw7Cw9ghTATGW5KRQiB2EiZwY9ZKKt)
+![](assets/img/enr-info-age-5.png)
 
 In short, there are 3 layers in the Musk’s vision of the future of energy in which Tesla is a pivotal point :
 
@@ -88,7 +88,7 @@ From the interoperation of those layers, Musk proposes a fully distributed energ
 * electricity is moved as « packs of energy » from point A to point B with car;
 * operation and management of the system are multiple, from homes to cars that are literally localized and moving supercomputers, and interoperable.
 
-![](https://lh4.googleusercontent.com/qHH5UWfdK3xsQwv4oBYPwfz4uvau29ACncFnTzhhBERw2mptDZbcYUAF1G_-lo4wERqRQw41bRNko1mylHvWK-NoCNA6rzkFYWGL-WnIGfIxS9KxJr3azgniia0yIISTYbsDvZH9)
+![](assets/img/enr-info-age-6.jpeg)
 
 **`Powerwall - Tesla energy management App : managing power from car to home to grid.`**
 
