@@ -51,9 +51,7 @@ Strategies in energy management and development from production to consumption w
 
 ![](https://lh5.googleusercontent.com/YvirCPX1RhoTWFR37NOrupI4NVhe6cnYQbwy9-m87cZzhHmguQrRqYtYsCGvYrnUHPM7mrHXTLWbl2RyAvYtRNsmIg5p-6bG0hiW7DXHTpqG9EuK4tEVNb2HfcbcXr0-qNHdHl8m)
 
-Energy is a political construction.
-
-For example, while before 1946 in France energy was mainly dealt with at the local level \(town and territory\), after 1946 energy was made a national matter, and as from the 90’s, supra level coordination and orientation of the European Union has impacted national energy development. Political and historic construction of the countries also strongly impact which of the scales are more important than the others. For example, while France as a strongly centralized management of energy, Germany has a far more decentralized operation of energy; while France relies on public state involvement in the operation and regulation of the energy sector, the United States or the UK, that have more liberal ways of dealing with infrastructures, mainly leave operation to the private sector.
+Energy is a political construction. For example, while before 1946 in France energy was mainly dealt with at the local level \(town and territory\), after 1946 energy was made a national matter, and as from the 90’s, supra level coordination and orientation of the European Union has impacted national energy development. Political and historic construction of the countries also strongly impact which of the scales are more important than the others. For example, while France as a strongly centralized management of energy, Germany has a far more decentralized operation of energy; while France relies on public state involvement in the operation and regulation of the energy sector, the United States or the UK, that have more liberal ways of dealing with infrastructures, mainly leave operation to the private sector.
 
 Despite the strong context dependance, what’s to be noted is that the spatial-scale constrains the energy sectors from a political point, from a nature point and from a technical and technological point.
 
@@ -134,7 +132,7 @@ Cette production est régie par les termes de la [Licence Peer Production](https
 
 * The peer production license is an example of the [Copyfair](https://wiki.p2pfoundation.net/CopyFair_License) type of license, in which only other commoners, cooperatives and nonprofits can share and re-use the material, but not commercial entities intent on making profit through the commons without explicit reciprocity
 
-![Peer Production Licence Logo](https://github.com/Rieul/research/blob/5a628e62b013d020b246465fcea7ed87c3a1e275/assets/css/PPL.png)
+![Peer Production Licence Logo](assets/css/PPL.png)
 
 
 [Energy in the information age]: article_energy-information-age.md
