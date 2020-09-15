@@ -1,4 +1,4 @@
-###### tags: `government` `commons` `energy` `infrastructure` `non-human` `biotic community` `project`
+###### tags: `government` `commons` `energy` `infrastructure` `cosmotechnics` `biotic community` `technodiversity`
 
 Cosmotechniques des infrastructures énergétiques
 ===
