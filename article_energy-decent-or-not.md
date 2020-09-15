@@ -2,7 +2,7 @@
 
 # “Decent” or not “decent”, is that the question ?
 
-![](https://lh3.googleusercontent.com/hXRORQcg19Fx_7Lef0p-n-axcD3Px2YBeIUM2foERwXCdWNmhmVHopDtcPi9Pk0UOC74BJGAlCDuh3mAMNnAXPLrbsXwXSUnAeS1ZoeeEEelnN-md0LJ-tACNfjAtyHoKgvlgIx_)
+![](assets/img/decent-or-not-0.png)
 
 ## "Technology is the answer. But what is the question ?"
 
@@ -49,7 +49,7 @@ Strategies in energy management and development from production to consumption w
 * the building level
 * the device level
 
-![](https://lh5.googleusercontent.com/YvirCPX1RhoTWFR37NOrupI4NVhe6cnYQbwy9-m87cZzhHmguQrRqYtYsCGvYrnUHPM7mrHXTLWbl2RyAvYtRNsmIg5p-6bG0hiW7DXHTpqG9EuK4tEVNb2HfcbcXr0-qNHdHl8m)
+![](assets/img/decent-or-not-1.png)
 
 Energy is a political construction. For example, while before 1946 in France energy was mainly dealt with at the local level \(town and territory\), after 1946 energy was made a national matter, and as from the 90’s, supra level coordination and orientation of the European Union has impacted national energy development. Political and historic construction of the countries also strongly impact which of the scales are more important than the others. For example, while France as a strongly centralized management of energy, Germany has a far more decentralized operation of energy; while France relies on public state involvement in the operation and regulation of the energy sector, the United States or the UK, that have more liberal ways of dealing with infrastructures, mainly leave operation to the private sector.
 
@@ -59,7 +59,7 @@ Despite the strong context dependance, what’s to be noted is that the spatial-
 
 ### **From a production point of view energy is about the resources for production.**
 
-![](../.gitbook/assets/capture-du-2018-11-16-16-14-55.png)
+![](assets/img/decent-or-not-2.png)
 
 `World energy consumption from a resource point of view (Source:` [`BP Statistical Review of World Energy`](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html) `2017)`
 
@@ -67,7 +67,7 @@ From a production point of view, energy usage is about the primary resources use
 
 ### **From a consumption point of view energy is useful to something**
 
-![](../.gitbook/assets/capture-du-2018-11-16-16-15-32.png)
+![](assets/img/decent-or-not-3.png)
 
 `Residential electricity consumption by end use in the United States of America in 2015 (Source:` [`EIA US Energy Information Administration`](https://www.eia.gov/todayinenergy/detail.php?id=36412)`)`
 
@@ -75,19 +75,19 @@ From a consumption point of view, energy usage is useful to something that as a 
 
 ### **From a producer point of view energy is a good to be sold.**
 
-![](../.gitbook/assets/capture-du-2018-11-16-16-15-59.png)
+![](assets/img/decent-or-not-4.png)
 
 As a car dealer with his cars, the energy producer needs to sell his energy, but not directly to consumer \(unless he is also a provider\) but either to energy providers or operators in charge of the balance of the grid. As cars can be booked or sold directly or even, for second-hand cars, being refurbished and then sold, the electricity producers either sells his electricity in advance \(day, weeks or even months in advance\) or “as-you-go” depending on the demand. “Second-hand” energy can be considered if energy storage operators are considered as producers.
 
 ### **From a provider point of view energy is a service to be sold.**
 
-![](https://lh5.googleusercontent.com/aFC_niqPhoTzKexwXNAkZ-cx-TGuC8fcfpBywbIv9w2I_p_txUeEvdzIWICgjE6BKRa3KDz5aZzGCx7a4uctfMrvaY2vhE72yC-uu9aDe8nn8S3uh93n6f8OJrZ1OIKAlUlRFvn6)
+![](assets/img/decent-or-not-5.png)
 
 The provider buys energy \(unless he is also a producer\) from one side and sell energy services from the other to consumers. He sees energy not as a good to be sold be as a service to be provide to consumers depending on their specific needs. Like a mobile operator, the energy provider sells subscription plans for energy to be provided to your home given your requirements or needs.
 
 ### **From a consumer point of view energy is a mean to the needs of everyday life.**
 
-![](../.gitbook/assets/capture-du-2018-11-16-16-16-17.png)
+![](assets/img/decent-or-not-6.png)
 
 The consumer usually does not see energy, he or she only perceive the energy from their everyday life needs: charging phones or computer, heat, cook, lighting ...
 
@@ -95,11 +95,11 @@ The consumer usually does not see energy, he or she only perceive the energy fro
 
 To prevent blackouts, grid operator must ensure the balance between production and consumption for the sake of the grid stability. Technically, imbalance entails both voltage and frequency to fluctuate while electrical systems do not tolerate fluctuations.
 
-![](../.gitbook/assets/capture-du-2018-11-16-16-16-34.png)
+![](assets/img/decent-or-not-7.png)
 
 ### **From an economist point of view it’s about the driving forces of energy prices.**
 
-![](../.gitbook/assets/capture-du-2018-11-16-16-17-00.png)
+![](assets/img/decent-or-not-8.png)
 
 `U.S. levelized cost of new electricity generation - in other words the lifetime costs to produce energy divided by energy production (Source:` [`EIA`](http://www.eia.gov/forecasts/aeo/electricity_generation.cfm)`)`
 
@@ -109,7 +109,7 @@ The economists see energy through the prism of price and market. As a result, en
 
 The technical structure of the organization is usually the point of focus in industrial or technological activities : is it centralized, decentralized, distributed ?
 
-![](https://lh5.googleusercontent.com/1jBhSbCdk7AkeX0MYOv5BllIwCYWT18C08s_WzP45zN--qRxdgoNM-3GM46BFgoBT_Rl8KRH20qvpb-EEyzRmPAt1VgQMaF1s0KXEU9zCk9esUxi4d-oRBPgzidYRM0GxYmru63B)
+![](assets/img/decent-or-not-9.png)
 
 * Centralized: A system with closely coupled components \(in terms of location and authority\) and relying on a few decision takers / producers / providers that then distribute from central points to decentralized or distributed points. Ex.: banks.
 * Distributed: A system where components might span geographical boundaries but are owned and controlled by a few entities entity. In other words, while processes are decentralized authority, decision taking and trust are centralized. Ex.: Dropbox.
