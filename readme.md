@@ -6,13 +6,13 @@ Research on critical infrastructures from a transdisciplinary, if not antidiscip
 This space is my personal information space about my research investigation on critical infrastructures from a transdisciplinary, if not antidisciplinary, perspective. It aims at revealing the complexity, from a cosmological point of view, of the topic of what can be called the "critical infrastructures", meaning the infrastructures that sustain how the society work. More specifically, I'm investigating the cosmotechnics of energy infrastrutures, particularly in relation with the development of the commons from a biotic community perspective. 
 
 # Research projects
-* [Cosmotechnics of energy infrastructures in times of resurgence of the commons, and more particularly from a biotic commnity perspective](https://github.com/Rieul/research/blob/14b005f313b268de78442081e68c7c7952e02b42/research-project_cosmotechnics-energy-infrastructure.md)
-* [Citizen Governed Data Platform within the context of energy distribution and production infrastructures](https://github.com/Rieul/research/blob/5c8b5e197f85f6357433ee577a14f06c6f04b76f/research-project_energy-cgdp.md)
+* [Cosmotechnics of energy infrastructures in times of resurgence of the commons, and more particularly from a biotic commnity perspective](research-project_cosmotechnics-energy-infrastructure.md)
+* [Citizen Governed Data Platform within the context of energy distribution and production infrastructures](research-project_energy-cgdp.md)
 
 # Articles
-* [Energy in the information age: decentralized infrastructures and complexity](https://github.com/Rieul/research/blob/8e463dc9724355e426e25ac985a928a3a4b334ca/article_energy-information-age.md)
-* [“Decent” or not “decent”, is that the question ?](https://github.com/Rieul/research/blob/d486ec5592bce2b0c49db3bc989e58cbddd62f71/article_energy-decent-or-not.md)
-* [Saucisse, Énergies Renouvelables & Transition Énergétique](https://github.com/Rieul/research/blob/51c1132bc9644f1995ebab0aecd312c2d12733b9/article_energy-saucisse-transition.md)
+* [Energy in the information age: decentralized infrastructures and complexity](article_energy-information-age.md)
+* [“Decent” or not “decent”, is that the question ?](article_energy-decent-or-not.md)
+* [Saucisse, Énergies Renouvelables & Transition Énergétique](article_energy-saucisse-transition.md)
 
 # Resources
 * [[Reference list]]
