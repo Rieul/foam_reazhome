@@ -121,7 +121,7 @@ With regards to complexity though, and the changes that are being witnessed in t
 
 As a result, while dealing with VUCA \(or TUNA\) context in such a complex system as energy, beyond the structure of the technical organisation, governance is key: who and how the rules are set ? towards which goals ? under which existing or building-up paradigms ?
 
-_**For more details**: I strongly advise you to consider reading to read_ [_Vitalik Buterin Medium’s post about the “Meaning of decentralization”_](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) _\(_[_https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274_](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)_\)._
+_**For more details**: I strongly advise you to consider reading to read_ [_Vitalik Buterin Medium’s post about the “Meaning of decentralization”_](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)._
 
 ---
 
