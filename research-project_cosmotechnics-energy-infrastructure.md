@@ -1,6 +1,6 @@
 ###### tags: `government` `commons` `energy` `infrastructure` `cosmotechnics` `biotic community` `technodiversity`
 
-Cosmotechniques des infrastructures énergétiques
+[WIP] Cosmotechniques des infrastructures énergétiques
 ===
 
 > Techno-diversité des systèmes socio-techniques énergétiques : Vers une construction des infrastructures par les communs de communautés biotiques à des fins de résilience territoriale.
