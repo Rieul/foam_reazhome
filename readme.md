@@ -9,10 +9,23 @@ This space is my personal information space about my research investigation on c
 * [Cosmotechnics of energy infrastructures in times of resurgence of the commons, and more particularly from a biotic commnity perspective](research-project_cosmotechnics-energy-infrastructure.md)
 * [Citizen Governed Data Platform within the context of energy distribution and production infrastructures](research-project_energy-cgdp.md)
 
+# Publications
+
+
 # Articles
+## Energy, infrastructure & complex systems
 * [Energy in the information age: decentralized infrastructures and complexity](article_energy-information-age.md)
 * [“Decent” or not “decent”, is that the question ?](article_energy-decent-or-not.md)
 * [Saucisse, Énergies Renouvelables & Transition Énergétique](article_energy-saucisse-transition.md)
+
+## The DAISEE experience
+
+
+## The Fabrique des Energies experience
+
+
+# Curiosity & Tests
+* [Can we afford the autonomy of information-space ?](article_manifesto-autonomy-information-space.md)
 
 # Resources
 * [[Reference list]]
