@@ -18,14 +18,23 @@ This space is my personal information space about my research investigation on c
 * [“Decent” or not “decent”, is that the question ?](article_energy-decent-or-not.md)
 * [Saucisse, Énergies Renouvelables & Transition Énergétique](article_energy-saucisse-transition.md)
 
-## The DAISEE experience
+## The [DAISEE](https://daisee.cc) experience
+> Those articles have been written to tell the story of [DAISEE](https://daisee.cc)'s experience from the core contributors' view. I've actively taken part in it.
+* [Our compass for the complex world of energy](article_daisee-compass-for-the-new-world.md)
+* [Lift Me Up](article_daisee-ep.-0-cellcamp-2016-lift-me-up.md)
+* [Call Me DAISEE](article_daisee-ep.-1-call-me-daisee.md)
+* [Hackaday Prize](article_daisee-ep.-2-hackaday-prize-2016.md)
+* [Citizen science and prototyping](article_daisee-ep.-3-citizen-scientists-and-automation.md)
+* [Blockchain is fun, but what's next ?](article_daisee-ep.4-blockchain-is-fun-but-whats-next.md)
+
+## The [Fabrique des Energies](https://fabenergies.cc) experience
 
 
-## The Fabrique des Energies experience
-
-
-# Curiosity & Tests
+# Curiosity, Necessities & Tests
+## Manifesto
 * [Can we afford the autonomy of information-space ?](article_manifesto-autonomy-information-space.md)
+
+## [La MYNE](https://lamyne.org)
 
 # Resources
 * [[Reference list]]
