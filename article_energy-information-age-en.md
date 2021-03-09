@@ -1,22 +1,18 @@
 ###### tags: `energy` `information` `complex system` `infrastructure` `DNA` `electricity` `Tesla` `Google` `SpaceX`
 
-# Energy in the information age: decentralized infrastructures and complexity.
+# [In revision process] Energy in the information age
 
 ![](assets/img/enr-info-age-0.jpeg)
 
-## **Energy : one of nature and civilization’s fundamentals**
+## **Energy is one of the fundamentals of how the world works**
 
-Energy is often considered through its techno-economical and regulatory aspects, sometimes through its political and social construction but rather seldomly from a life perspective. Strikingly enough, or obviously stated : energy is at the basis of the universe and that is not exaggeratedly speaking.
+Either around you, or at the edge of the universe, Energy is at the basis of anything you might think of. If energy is usually a matter of techno-economics and regulation, and not so much of socio-technics and politics, it might be because our - industrial - world holds on to it as much as it is held by it. Thus, rather seldomly the energy complex is addressed from more holistic, cosmologic and intertwined perspectives. The point is striking enough to be stated given that energy is one the main driver of the cosmos, the universe(s)... our world(s).
 
-Energy is what makes it possible for atoms to be internally stable as well as to bound with each other, or, at the opposite, to degrade and release energy. It’s what makes it possible for molecule to bind to each other; for cells to grow, live and die; for the earth to accumulate raw energy resources \(oil coal, gas, biomass…\) to support our needs and comfort …
+Energy is what makes it possible for atoms to be stable and bind with each other. On the contrary, it can also lead to degrading and releasing energy. At other levels, energy makes it possible for molecule to bind to each other, for cells to grow, live and die, for the earth to accumulate raw energy resources \(oil coal, gas, biomass…\) to support our needs and comfort … By far, energy is a key driver of our world, our univere, the cosmos and their representations.
 
-By far, energy is the key determinant to our world, both from a human activities perspective and from the earth diversity and life view.
+Take transportation for instance, without fuel cars do not run, without petroleum motorways won’t be the same. How do you run the traffic management system and, for instance, traffic lights ? You need power. What about electric vehicle ? It needs a battery pack that requires to be charge, thus necessitating electricity. While considering the upstream chain dependance : the car manufacturing processes run with energy that is produced by a power plant from raw materials such as coal, fuel or gas that need to be extracted from underground, thus involving the use of energy. Downstream, distributing and selling the cars also involve the use of energy.
 
-Take transportation for instance, without fuel cars do not run, without petroleum motorways won’t be the same; how do you run the traffic management system and, for instance, traffic lights ? You need power. What about electric vehicle ? It needs a battery pack that requires to be charge, thus necessitating electricity.
-
-Deepening the chain dependance upstream : the car manufacturing processes run with energy that is produced by a power plant from raw materials such as coal, fuel or gas that need to be extracted from underground, thus involving the use of energy. Downstream, distributing and selling the cars also involve the use of energy.
-
-Take the building and housing sector for instance; not only the building construction process consumes energy, but, once built, it also requires energy for its daily operation. From heating to advanced energy monitoring, using IoT \(Internet of Things\) and “smart” devices, energy impacts and its usage is impacted by the emergence of new technologies, organisational structures and potentials offered by computation democratization.
+Take the building and housing sector for instance, not only the building construction process consumes energy, but, once built, it also requires energy for its daily operation. From heating to advanced energy monitoring, energy has an impact and its usage is impacted by the emergence of new technologies, organisational (infra)structures and potentials offered by computation democratization.
 
 Closer to our daily life, consider:
 

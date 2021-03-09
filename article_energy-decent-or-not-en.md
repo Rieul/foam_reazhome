@@ -1,6 +1,6 @@
 ###### tags: `energy` `decentralization` `centralization` `distribution` `complex system` `technology` `governance` `usage` `scale`
 
-# “Decent” or not “decent”, is that the question ?
+# [In revision process] “Decent” or not “decent”, is that the question ?
 
 ![](assets/img/decent-or-not-0.png)
 
