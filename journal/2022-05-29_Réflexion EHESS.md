@@ -1,0 +1,5 @@
+- Cosmotechniques : Yuk Hui mentionne que le Chine n'a pas poussé le travail autour de la notion de temps et que cela impact sa relation à la technique et la technologie 
+- Temps : Hartmut Rosa et d'autres montrent à quel point la "modernité" et pourvoyeuse de décalage, d'aliénation et de tension/dissonnane relationnelle par rapport au temps.
+- Énergie : le rapport au temps est critique dansbun cadre d esecurisaiton des approvisionnements et soutenabilite d'un système. Par ailleurs, les impacts des choix de ressources induisent une relation au temps forte (exemple du nucleaire).
+- Dans le sujet : anthropocene et relation au temps, je vois un axe à tirer qui est celugui de la relation technologie et ordre materiel-energie et soutenabilite - espace et temps. 
+- Note : cette période qu'est l'anthropocene, qui s'inscrit dans un processus de modernisation autogeneratif, est constitutive d'une relation au temps qui a évoluer avec les techniques et technologies et vice versa. Il peut donc être intéressant d'investiguer ce sujet au prisme de Cosmotechniques. Cas d'étude : l'énergie, et plus particulièrement la relation aux ressources et aux déchets. 
